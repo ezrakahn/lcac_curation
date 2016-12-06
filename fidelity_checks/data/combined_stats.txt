@@ -1,0 +1,7 @@
+z_data_combine_corn_swine_plus				
+Type	 Crop counts	 Swine counts	 combined	 diff
+Product systems	105	3	108	0
+Flows	6012	20378	26352	38
+Exchanges	1234253	2299	1236552	0
+Processes	34317	60	34377	0
+Product system processes	8653	143	8796	0
